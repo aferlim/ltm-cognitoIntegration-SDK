@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "error-factory": "^0.1.6",
     "hapi-swagger": "^10.3.0",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "mongoose": "^5.7.7",
     "redis": "^2.8.0"
   },
